@@ -4,13 +4,13 @@ longtitle:        Yoonseo Cho
 author:           Yoonseo Cho
 email:            cherishedxxx@gmail.com
 description: >
-  안녕하세요~ ^_^~!
+  Design 24
 
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://ononeown.github.io'
-baseurl:          '/jekyll-gitbook'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
